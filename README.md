@@ -80,9 +80,9 @@ Additional target machines can be added to the same virtual network in future pr
 
 | 🧩 Component       | ⚙️ Configuration   |
 | ------------------ | ------------------  |
-| 🖥️ Host OS         | Windows 10         |
+| 🖥️ Host OS         | Windows 11 pro         |
 | 🧠 Host RAM        | 8 GB               |
-| ⚡ Processor       | Intel Core i7      |
+| ⚡ Processor       | AMD Ryzen 5 PRO 3500U w/ Radeon Vega Mobile Gfx (2.10 GHz)      |
 | 🧰 Hypervisor      | VirtualBox 7.2  |
 | 🐉 Security OS     | Kali Linux 2026.2  |
 | 🧠 Kali RAM        | 2048 MB            |
